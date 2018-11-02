@@ -1,0 +1,1 @@
+﻿{"ContextClassName":"Test1Context","DefaultDacpacSchema":null,"IdReplace":false,"IncludeConnectionString":true,"OutputPath":"Models","ProjectRootNamespace":"WebApplication4","SelectedToBeGenerated":0,"Tables":["dbo.Cats","dbo.Customer","dbo.Initial","dbo.Product","dbo.Unit"],"UseDatabaseNames":false,"UseFluentApiOnly":true,"UseHandleBars":false,"UseInflector":false}
